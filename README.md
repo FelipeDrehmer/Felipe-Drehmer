@@ -1,4 +1,4 @@
-# Felipe Drehmer a software engineer
+# Felipe Drehmer um engenheiro de software
 ## Olá, sou Felipe Drehmer, estudante de Engenharia de Software. Tenho como objetivo me aprofundar no universo da tecnologia, desenvolvendo habilidades em programação, banco de dados e inovação para construir soluções eficientes e impactantes no mercado digital.
 
 ###
